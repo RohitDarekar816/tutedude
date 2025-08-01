@@ -58,7 +58,7 @@ This project demonstrates a containerized web application with:
 ![GitHub Repository](brave_screenshot_github.com.png)
 
 ### Application Running
-![Application Screenshot](Screenshot%202025-08-01%20092955.png)
+![Application Screenshot](Screenshot%202025-08-01%20093401.png)
 
 ## 🔧 Services
 
