@@ -1,7 +1,7 @@
 services:
 
   backend:
-    image: rohitdarekar816/portfolio-backend
+    image: rohitdarekar816/tutedude-backend
     container_name: backend
     ports:
       - 5001:5001
@@ -9,7 +9,7 @@ services:
       - ./backend/.env
 
   frontend:
-    image: rohitdarekar816/portfolio-react
+    image: rohitdarekar816/tutedude-frontend
     container_name: frontend
     ports:
       - 3000:3000
